@@ -78,7 +78,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/uinput-goodix.kl:system/usr/keylayout/uinput-goodix.kl
 
 # Build Official
-export export HAVOC_BUILD_TYPE=Official
+export HAVOC_BUILD_TYPE=Official
 
 # Wallpapers
 PRODUCT_PACKAGES += \
